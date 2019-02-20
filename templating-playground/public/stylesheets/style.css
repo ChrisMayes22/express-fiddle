@@ -1,0 +1,19 @@
+button{
+    width: 30%;
+    margin: 10px;
+}
+
+input{
+    width: 75%;
+    margin: 10px;
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    height: 20vh;
+    width: 35vw;
+    background-color: grey;
+    margin: 35vh auto;
+    text-align: center;
+}
